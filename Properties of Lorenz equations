@@ -1,0 +1,52 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyNLsOJ645FPtL6yCHD8iIWb",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/AlCobzaru/Lorenz-Equations/blob/main/Properties%20of%20Lorenz%20equations\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Properties of Lorenz Equations"
+      ],
+      "metadata": {
+        "id": "2d_aw19_Vewp"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "**1)Symmetry**\n",
+        "\n",
+        "The Lorenz equations exhibit symmetry with respect to x and y. In other words,\n",
+        "\n",
+        "\\"
+      ],
+      "metadata": {
+        "id": "KTTggMNyVnhk"
+      }
+    }
+  ]
+}
